@@ -157,3 +157,17 @@ body {
 /* .paragraph{
   background-color: white;
 } */
+
+.full{
+  width:100%;
+  margin:0;
+}
+footer{
+  height:9em;
+  background-color: black ;
+  position:relative;
+ 
+}
+.type1{
+  padding-bottom: 50px;
+}
