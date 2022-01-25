@@ -30,7 +30,7 @@ li a {
 
 }
 
-.li a:hover {
+li a:hover {
   background-color: gray;
 }
 body{margin-top:20px;}
