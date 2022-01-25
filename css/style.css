@@ -35,6 +35,7 @@ header {
   
   li a:hover {
     background-color: gray;
+    color: #1259c6;
   }
   @media screen and (max-width: 500px) {
     .header a {
