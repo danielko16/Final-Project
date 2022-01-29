@@ -8,13 +8,13 @@ header {
   z-index: 2;
 }
 body{
-  background-color: #e4fcfc;
+  background-color: #f1fcfc;
 }
 li {
   float: right;
 }
 .card{
-  background-color: #e2ffdf;
+  background-color: #f8fff8;
 }
 
 li a {
