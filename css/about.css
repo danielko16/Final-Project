@@ -478,3 +478,15 @@ footer{
     font-size: 150px;
   }
 }
+.illustrate{
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-top: 3em;
+}
+.illustrate1{
+  color: white;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-bottom: 1em;
+}
