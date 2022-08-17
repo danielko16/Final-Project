@@ -153,7 +153,8 @@ background-repeat: no-repeat;
 background-size: cover;
 position: relative;
 width: 100%;
-background-image: url('https://content.wolfram.com/uploads/sites/39/2017/12/StayUpright.gif');
+background-image: url('https://www.highsnobiety.com/static-assets/thumbor/gXNWG5ZMXzhZf1L9RqpnT-0Fyeo=/30x20/www.highsnobiety.com/static-assets/wp-content/uploads/2017/10/16204106/rza-dj-mathematics-interview-hat.jpg');
+/* https://content.wolfram.com/uploads/sites/39/2017/12/StayUpright.gif */
 filter: blur(8px);
 -webkit-filter: blur(8px);
 }
